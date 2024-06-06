@@ -18,7 +18,7 @@ Este é um projeto simples em Vue.js que consome a API pública de Rick and Mort
 1. Clone este repositório:
 
 ```bash
-git clone (https://github.com/ThiagoResende88/RickAndMortyApi)
+git clone https://github.com/ThiagoResende88/RickAndMortyApi
 ```
 
 2. Instale as dependências:
