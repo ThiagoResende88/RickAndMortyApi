@@ -18,13 +18,13 @@ Este é um projeto simples em Vue.js que consome a API pública de Rick and Mort
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/rick-and-morty-characters.git
+git clone (https://github.com/ThiagoResende88/RickAndMortyApi)
 ```
 
 2. Instale as dependências:
 
 ```bash
-cd rick-and-morty-characters
+cd RickAndMortyApi
 npm install
 ```
 
@@ -34,7 +34,7 @@ npm install
 npm run serve
 ```
 
-4. Abra o navegador e acesse `http://localhost:8080` para ver a aplicação.
+4. Abra o navegador e acesse o localhost para ver a aplicação.
 
 ## Contribuição
 
